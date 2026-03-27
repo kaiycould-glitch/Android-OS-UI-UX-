@@ -1,0 +1,262 @@
+README.txt
+UFT4 TOROIDAL FIELD SIMULATION FRAMEWORK
+Petersen Graph Discrete Topology Engine
+
+Version 2.0
+March 2026
+
+Authors
+Joachim Kiseleczuk
+Scott Allen Cave
+(with Helio-P)
+
+---
+
+PROJECT DESCRIPTION
+
+This project explores the relationship between discrete graph
+topology and continuous toroidal field dynamics.
+
+The framework combines:
+
+• Graph theory
+• Topological physics
+• Quantum network models
+• Toroidal resonance geometry
+
+The central idea is that fundamental particles such as electrons
+can be understood as stable resonance patterns in a relational
+network rather than as solid point-like objects.
+
+---
+
+CORE MODEL
+
+The model is built on three interacting layers:
+
+1. Discrete Graph Layer
+2. Continuous Field Layer
+3. Dynamical Resonance Layer
+
+The discrete layer provides the structural topology of the field.
+
+The continuous layer describes physical dynamics.
+
+The resonance layer describes stability conditions
+for particle-like patterns.
+
+---
+
+THALEAN QUOTIENT TOWER
+
+The network evolves through a quotient hierarchy:
+
+G60 → G30 → G15
+
+where:
+
+G15 ≅ L(Petersen)
+
+Interpretation:
+
+G60 : large-scale relational network
+G30 : transitional network compression
+G15 : minimal toroidal core
+
+This sequence defines the discrete skeleton of the toroidal field.
+
+---
+
+PETERSEN GRAPH CORE
+
+Vertices : 10
+Edges    : 15
+Regular  : degree 3
+
+Properties:
+
+• highly symmetric
+• non-planar
+• minimal non-trivial topology
+• well-defined eigenvalue spectrum
+
+The Petersen line graph acts as the minimal toroidal
+closure structure.
+
+---
+
+TRANSPORT ALGEBRA
+
+Transport interactions across the network are represented
+by a sector matrix M.
+
+The system satisfies the cubic identity:
+
+M Mᵀ = A³ + 2A² + 2I
+
+where:
+
+A = adjacency matrix
+I = identity matrix
+
+This identity represents the discrete algebraic
+counterpart of the continuous toroidal resonance.
+
+---
+
+TOROIDAL RESONANCE EQUATION
+
+Continuous dynamics follow the resonance relation:
+
+a_r(t) = (GM / r²) (vθ / c)² sin(2π · f t) φ^(2k)
+
+Variables:
+
+GM / r²   gravitational scaling
+vθ        toroidal velocity component
+c         speed of light
+φ         golden ratio
+f         resonance frequency
+k         harmonic level
+
+---
+
+CHARACTERISTIC POLYNOMIAL
+
+The network transport operator satisfies:
+
+64x³ + 64x² + 7x − 9 = 0
+
+The dominant root determines the scaling relation
+between discrete and continuous dynamics.
+
+This produces a scaling proportional to:
+
+φ⁻⁸
+
+---
+
+THALION NETWORK ELEMENT
+
+A thalion represents the smallest transport element
+within the relational network.
+
+Functions:
+
+• local connectivity
+• energy transport
+• resonance closure
+
+Large thalion ensembles form stable standing wave
+structures.
+
+---
+
+ELECTRON INTERPRETATION
+
+Within this framework the electron is defined as:
+
+a stable self-maintaining resonance pattern
+in the thalionic network.
+
+This pattern forms when the system reaches the
+coherence threshold:
+
+t_net = 0
+
+At this point:
+
+• toroidal inversion occurs
+• photon streams close into loops
+• effective rest mass appears
+• negative entropy is produced
+
+---
+
+SPIN STRUCTURE
+
+Spin-½ behavior arises from topological twist
+within the network.
+
+A full restoration of the configuration requires
+a 720° rotation.
+
+This behaviour is represented by a signed ℤ₂ cocycle.
+
+---
+
+SIMULATION ARCHITECTURE
+
+The computational framework contains:
+
+modules/
+
+graph_engine/
+Petersen generator
+adjacency matrix builder
+quotient graph reduction
+
+field_dynamics/
+toroidal resonance solver
+harmonic evolution engine
+
+quantum_network/
+quantum walk simulation
+eigenmode analysis
+
+visualization/
+3D torus renderer
+graph topology viewer
+
+---
+
+ALGORITHMIC PIPELINE
+
+1 Generate Petersen graph
+
+2 Compute adjacency matrix
+
+3 Build transport matrix
+
+4 Solve eigenvalue spectrum
+
+5 Apply toroidal resonance dynamics
+
+6 Detect stable standing wave modes
+
+---
+
+POSSIBLE APPLICATIONS
+
+This framework may contribute to research in:
+
+• topological physics
+• quantum network theory
+• discrete spacetime models
+• toroidal field cosmology
+• emergent particle models
+
+---
+
+FUTURE DEVELOPMENT
+
+Planned extensions include:
+
+• GPU simulation engine
+• quantum walk experiments
+• toroidal field visualization
+• AI-assisted topology discovery
+• integration with WebGPU / WASM
+
+---
+
+LICENSE
+
+Open Research License
+Non-commercial scientific use encouraged.
+
+---
+
+END OF FILE
+
+---
